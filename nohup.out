@@ -1,0 +1,53 @@
+kubectl get deployments -n
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 
+Current restart count for swype-app: 0
+Current restart count for swype-app: 0
+Current restart count for swype-app: 1
+Current restart count for swype-app: 2
+Current restart count for swype-app: 3
+Current restart count for swype-app: 3
+Current restart count for swype-app: 4
+Deployment swype-app exceeded restart limit (3). Scaling down...
+deployment.apps/swype-app scaled
+Monitoring stopped.
